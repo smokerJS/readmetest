@@ -132,8 +132,6 @@ SourceTree<br>
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529584484728-%EB%8F%99%EC%98%81%EC%83%81%EC%97%85%EB%A1%9C%EB%93%9C.gif)<br>
 >
 >**동영상 업로드와 실시간 스트리밍 서비스**<br><br>
->node.js 의 express 에 multer middleware 를 사용하여<br>
->쉽고 빠른 업 & 다운로드를 구현하였다.<br>
 >또한 node.js 서버단에 vid-streamer 를 이용하여 스트리밍 전용 서버를 구성하고<br>
 >사용자는 브라우저가 동영상을 읽는 동시에 동영상 시청이 가능하다.<br>
 >
