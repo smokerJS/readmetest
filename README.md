@@ -54,7 +54,7 @@ SourceTree<br>
 >***Spring Framework*** 와 **Node Express** 의 **Cross Browsing** 구현<br>
 >Web template 을 사용하지 않고 로그인을 제외한 모든 페이지에<br>
 >***app*** 형식의 **UI-Design** 과 sitemesh를 통한 **Side Menu** 구성<br>
-><br>
+><br><br>
 > **핵심기능**<br>
 >    - 실시간 알림<br>
 >    - 친구관리<br>
@@ -134,7 +134,7 @@ SourceTree<br>
 >**동영상 업로드와 실시간 스트리밍 서비스**<br><br>
 >node.js 의 express 에 multer middleware 를 사용하여<br>
 >쉽고 빠른 업 & 다운로드를 구현하였다.<br>
->또한 node.js 서버단에 vid-streamer 를 이용하여 3002 port로 스트리밍 서버를 구성하고<br>
+>또한 node.js 서버단에 vid-streamer 를 이용하여 스트리밍 전용 서버를 구성하고<br>
 >사용자는 브라우저가 동영상을 읽는 동시에 동영상 시청이 가능하다.<br>
 >
 >---------
@@ -152,10 +152,10 @@ SourceTree<br>
 >4. spring 서버단에서 파일쓰기가 완료되면 브라우저로 해당 정보 전송<br>
 >5. 쓰기가 완료된 이미지들의 다운로드 활성화<br>
 ><br>
->파일 및 동영상은 node 서버단에서 읽고 쓰지만 사진의 읽기 쓰기는 spring 에서 진행되며<br>
+>파일 및 동영상은 ***node*** 서버단에서 읽고 쓰지만 사진의 읽기 쓰기는 ***spring*** 에서 진행되며<br>
 >파일 읽기는 google 의 guava lib 를 이용하였다.<br>
 >채팅방에 참여한 유저들이 다수의 파일 쓰기가 끝나기 전에  이미지를 확인하는<br>
->비동기적 읽기/쓰기 방식을 개발<br>
+>**비동기적 읽기/쓰기 방식을 개발**<br>
 >
 >---------
 
