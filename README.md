@@ -49,18 +49,18 @@ SourceTree<br>
 
 >**정진솔 - UI-Design / 채팅 / 실시간 알림 /  친구관리 / 프로젝트 생성**
 >---------
-><br>
+>
 >**node.js** 의 **socket.io** 를 이용하여 실시간 통신 서비스 및<br>
 >**Spring Framework** 와 **Node Express** 의 **Cross Browsing** 구현<br>
 >web template 을 사용하지 않고 로그인을 제외한 모든 페이지에<br>
 >app 형식의 **UI-Design** 과 sitemesh를 통한 **Side Menu** 구성<br>
 ><br>
 > **핵심기능**<br>
-    - 실시간 알림<br>
-    - 친구관리<br>
-    - 프로젝트 생성 및 초대<br>
-    - 채팅<br>
-    <br>
+>    - 실시간 알림<br>
+>    - 친구관리<br>
+>    - 프로젝트 생성 및 초대<br>
+>    - 채팅<br>
+>    <br>
    
 ---------------------------------------
 
