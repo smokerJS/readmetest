@@ -1,13 +1,13 @@
 
 
-**node.js-Study-by-jinsol**
+**Node.js-Study-by-jinsol**
 ===============
 정진솔(https://github.com/smokerJS)<br>
-
+jjshoro@gamil.com<br>
 ---------------------------------------
 
 
->**목차**<br>
+>**Index**<br>
 >01_module<br>
 >02_provide_module<br>
 >03_event<br>
@@ -17,5 +17,5 @@
 >07_make_express<br>
 >08_express<br>
 >09_socketio<br>
-
+>
 ---------------------------------------
